@@ -1,16 +1,26 @@
-### Hi there 👋
+# whoami
 
-<!--
-**d0now/d0now** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+normal, unharmful, usual pwner who loves ideas and tools.
 
-Here are some ideas to get you started:
+## contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Tools I loves & uses:
+
+| category       | name               | description |
+|:--------------:|:------------------:|:------------|
+| RE Platform    | ✨ BinaryNinja ✨   | for generic reverse engineering & vuln discovery things |
+| RE Platform    | Ghidra             | if the I have no choices ... |
+| RE Platform    | radare2, rizin     | for dynamic reversing & debugging things |
+| RE Platform    | IDA Pro, Hex-rays  | I don't really uses this nowdays :) |
+| Debugger       | gdb, windbg        | oldschool! |
+| Virtualization | Parallels          | my main working-os is macOS so... I need it |
+| Virtualization | VirtualBox         | if I need linux-based guest |
+| Virtualization | Qemu               | if I need to virtualize more lower things |
+| Virtualization | Vagrant            | for virtualizing ochestration |
+| Code Editor    | Visual Studio Code | no doubt |
+| Others         | Hex Fiend          | ... |
+| Others         | iTerm              | ... |
+| Others         | Binwalk            | for firmware inspection |
+| Others         | CyberChef          | cuz there are lot of encryption & decryption, encoding & decoding things |
