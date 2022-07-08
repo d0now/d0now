@@ -1,12 +1,24 @@
-# whoami
+# 🧑‍💻 whoami
 
 normal, unharmful, usual pwner who loves ideas and tools.
 
-## contact
+## 📮 contacts
 
+**Personal**
 
+- mail: dolpin1402[at]gmail[.]com
 
-## Tools I loves & uses:
+**Business**
+
+- dhkim[at]stealien[.]com
+
+## 📃 Blogs
+
+- d0now-lab.tistory.com
+- ufo.stealien.com
+- 314hack.tistory.com (old)
+
+## 🛠 Tools I loves & uses:
 
 | category       | name               | description |
 |----------------|--------------------|-------------|
