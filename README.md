@@ -9,7 +9,7 @@ normal, unharmful, usual pwner who loves ideas and tools.
 ## Tools I loves & uses:
 
 | category       | name               | description |
-|:--------------:|:-------------------|:------------|
+|----------------|--------------------|-------------|
 | RE Platform    | ✨ BinaryNinja ✨   | for generic reverse engineering & vuln discovery things |
 | RE Platform    | Ghidra             | if the I have no choices ... |
 | RE Platform    | radare2, rizin     | for dynamic reversing & debugging things |
