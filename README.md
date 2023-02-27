@@ -15,5 +15,5 @@ Pwner working at STEALIEN, south korea.
 ## 📃 Blogs
 
 - d0now-lab.tistory.com
-- ufo.stealien.com
+- ufo.stealien.com (work)
 - 314hack.tistory.com (old)
