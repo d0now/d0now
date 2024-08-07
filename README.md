@@ -6,14 +6,13 @@ Pwner working at STEALIEN, south korea.
 
 **Personal**
 
-- mail: dolpin1402[at]gmail[.]com
+- dolpin1402 gmail com
 
 **Business**
 
-- dhkim[at]stealien[.]com
+- dhkim stealien com
 
 ## 📃 Blogs
 
 - d0now-lab.tistory.com
 - ufo.stealien.com (work)
-- 314hack.tistory.com (old)
